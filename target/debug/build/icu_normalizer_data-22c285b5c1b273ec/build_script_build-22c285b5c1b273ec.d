@@ -1,0 +1,5 @@
+/Users/manny/projects/curl-rs/target/debug/build/icu_normalizer_data-22c285b5c1b273ec/build_script_build-22c285b5c1b273ec.d: /Users/manny/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer_data-2.1.1/build.rs
+
+/Users/manny/projects/curl-rs/target/debug/build/icu_normalizer_data-22c285b5c1b273ec/build_script_build-22c285b5c1b273ec: /Users/manny/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer_data-2.1.1/build.rs
+
+/Users/manny/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer_data-2.1.1/build.rs:
